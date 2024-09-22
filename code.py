@@ -11,8 +11,8 @@ from sentence_transformers import SentenceTransformer
 import json
 from pinecone import Pinecone
 # Replace with your API keys
-PINECONE_API_KEY = "07bda632-c51f-4966-8a32-d5e0d3b354d9"
-COHERE_API_KEY = "6wvwdutBMrbEeNvVNFQyLHAWWKxi9smp5dS14TTo"
+PINECONE_API_KEY = "PINECONE API KEY"
+COHERE_API_KEY = "COHERE API KEY"
 
 
 # Initialize Pinecone
